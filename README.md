@@ -17,7 +17,7 @@ pip install struct<br>
 ./pulsar_scan.py /dev/ttyUSB0 9600 65000 65100<br>
 <br>
 Запуск в Windows:<br>
-./pulsar_scan.py COM5 9600 65000 651000<br>
+./pulsar_scan.py COM5 9600 65000 65100<br>
 
 Возможные параметры запуска:<br>
 ./pulsar_scan.py <КОМ_ПОРТ> <СКОРОСТЬ><br>
