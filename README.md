@@ -1,4 +1,4 @@
-# Mercury
+# Pulsar-16M
 ПО для опроса Пульсар-16M <br>
 
 git clone https://github.com/yvp77/pulsar.git
