@@ -5,7 +5,7 @@ git clone https://github.com/yvp77/pulsar.git
 
 
 # Сканер
-Сканер адресов CAN шины счетчиков Меркурий200 зашифрованных ПО Наладчик+
+Сканер адресов
 
 Подготовка:<br>
 pip install modbus_crc<br>
