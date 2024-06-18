@@ -1,5 +1,5 @@
 # Pulsar-16M
-Скрипт для опроса Пульсар-16M через USB-RS485 <br>
+Скрипт для опроса УСПД Пульсар-16M через USB-RS485 <br>
 
 git clone https://github.com/yvp77/pulsar.git
 
